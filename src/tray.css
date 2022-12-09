@@ -1,0 +1,12 @@
+div {
+  border-radius: 25px;
+  background-image: linear-gradient(to right, rgb(38, 0, 255) , rgb(0, 132, 255));
+  width: 200px;
+  height: 200px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

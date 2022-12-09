@@ -1,0 +1,20 @@
+{
+  "CPU": true,
+  "CPUTemp": true,
+  "Uptime": true,
+  "UsedRam": true,
+  "Nvidia": {
+    "Temp": false,
+    "GPUMemUsed": false,
+    "PowerDraw": false
+  },
+  "Background": {
+    "Color": "transparent"
+  },
+  "Font": {
+    "Style": "",
+    "Size": "20",
+    "Color": "yellow",
+    "ShadowColor": "red"
+  }
+}
